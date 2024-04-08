@@ -1,0 +1,7 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "vehicleroutes",
+        "App"
+    ],
+    "liveServer.settings.port": 5501
+}
